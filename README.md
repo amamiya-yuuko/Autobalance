@@ -8,6 +8,8 @@ Autobalance can balance the LUFS loudness of different tracks to average by usin
 By using gammatone filter set to detect the perception of each frequency band, Autobalance can set the given tracks/instruments into approprite positions in the soundstage by a algorithm called 'cut onion'. This algorithm will classify the different tracks, like the different layers of an onion, and try to balance the different frequency bands in each position to ensure a smooth auditory effect.
 
 A mixed example audio by Autobalance is given. To use Autobalance, just put the script and all tracks in a portfolio and run it.
+![Gains](https://github.com/amamiya-yuuko/Autobalance/blob/main/Gains.jpg)
+![Filters](https://github.com/amamiya-yuuko/Autobalance/blob/main/Filters.jpg)
 
 ####################
 
